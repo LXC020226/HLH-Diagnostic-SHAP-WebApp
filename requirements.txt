@@ -1,7 +1,6 @@
 streamlit
-numpy
+numpy==1.23.5
 joblib
 scikit-learn
 shap==0.39.0
 matplotlib
-
