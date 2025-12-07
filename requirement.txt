@@ -1,6 +1,7 @@
 streamlit==1.32.0
-numpy
-joblib
-scikit-learn
+numpy>=1.23
+pandas
+joblib>=1.2
+scikit-learn>=1.2
 shap==0.39.0
-matplotlib
+matplotlib>=3.7
