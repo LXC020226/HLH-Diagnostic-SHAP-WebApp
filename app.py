@@ -1,4 +1,4 @@
-iimport streamlit as st
+import streamlit as st
 import numpy as np
 import joblib
 import shap
@@ -165,4 +165,5 @@ st.markdown("""
 Model: Random Forest | Version 1.0.0
 </div>
 """, unsafe_allow_html=True)
+
 
